@@ -2,39 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
 <url>
-  <loc>/de/</loc>
+  <loc>... .../de/</loc>
   <priority>1</priority>
   <xhtml:link 
     rel="alternate"
     hreflang="en"
-    href="/en/"
+    href="... .../en/"
   />
   <xhtml:link
     rel="alternate"
     hreflang="de"
-    href="/de/"
+    href="... .../de/"
   />
 </url>
 <url>
-  <loc>/en/</loc>
+  <loc>... .../en/</loc>
   <priority>1</priority>
   <xhtml:link 
     rel="alternate"
-    hreflang="de"
-    href="/de/"
+    hreflang="... ...de"
+    href="... .../de/"
   />
   <xhtml:link
     rel="alternate"
-    hreflang="en"
-    href="/en/"
+    hreflang="... ...en"
+    href="... .../en/"
   />
 </url>
 <url>
-  <loc>/de/datenschutz/</loc>
+  <loc>... .../de/datenschutz/</loc>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>/en/privacy/</loc>
+  <loc>... .../en/privacy/</loc>
   <priority>0.64</priority>
 </url>
 
